@@ -1,0 +1,2 @@
+BookId,BookTitle,GenreId,AuthorId,YearOfRelease,AuthorId,AuthorFirst,AuthorLast,GenreId,GenreType
+1,The Travels of Marco Polo,1,1,1300,0,,,0,
